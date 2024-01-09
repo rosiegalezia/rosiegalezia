@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋 my name is Rosie
+I'm a Product Design and Technology Graduate from Loughborough, currently completing a 16-Week Front-End Web Development Bootcamp with EdX.
 
-<!--
-**rosiegalezia/rosiegalezia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔎 I'm looking for:
+Opportunities in User Interface Design, WEb Development and Design or UX.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on:
+* My weekly assignments for my bootcamp
+* My personal portfolio website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+* Node.js
+* Building on my JavaScript knowledge
+* Keen to start learning SASS!
+
+## 📫 How to reach me:
+* via email aat rosiegalezia@gmail.com
+* via LinkedIn at https://www.linkedin.com/in/rosiegalezia/
