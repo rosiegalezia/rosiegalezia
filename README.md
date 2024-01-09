@@ -2,7 +2,7 @@
 I'm a Product Design and Technology Graduate from Loughborough, currently completing a 16-Week Front-End Web Development Bootcamp with EdX.
 
 ## 🔎 I'm looking for:
-Opportunities in User Interface Design, WEb Development and Design or UX.
+Opportunities in User Interface Design, Web Development and Design or UX.
 
 ## 🔭 I’m currently working on:
 * My weekly assignments for my bootcamp
