@@ -14,5 +14,5 @@ Opportunities in User Interface Design, Web Development and Design or UX.
 * Keen to start learning SASS!
 
 ## 📫 How to reach me:
-* via email aat rosiegalezia@gmail.com
+* via email at rosiegalezia@gmail.com
 * via LinkedIn at https://www.linkedin.com/in/rosiegalezia/
