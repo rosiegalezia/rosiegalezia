@@ -8,8 +8,8 @@ I'm a Product Designer and Web Developer, currently completing a 16-Week Front-E
 Opportunities in User Interface Design and/or Web Development.
 
 ## 🔭 I’m currently working on:
-* My weekly assignments for my bootcamp
 * My personal portfolio website
+* A band website for a client
 
 ## 🌱 I’m currently learning:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
