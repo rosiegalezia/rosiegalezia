@@ -9,7 +9,7 @@ Opportunities in User Interface Design and/or Web Development.
 
 ## 🔭 I’m currently working on:
 * [My personal portfolio website (individual).](https://github.com/rosiegalezia/personal-portfolio-website)
-* [An interview prep website to help practice tricly coding questions (group project).](https://github.com/group-lab/interview-prep-app)
+* [An interview prep website](https://github.com/group-lab/interview-prep-app) to help practice tricky coding questions (group project).
 
 ## 🌱 I’m currently learning:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
