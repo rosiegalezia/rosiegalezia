@@ -8,7 +8,7 @@ I'm a Product Designer and Web Developer, I completed a 16-Week Front-End Web De
 Opportunities in User Interface Design and/or Web Development.
 
 ## 🔭 I’m currently working on:
-* [My personal portfolio website (individual).](https://github.com/rosiegalezia/personal-portfolio-website)
+* [My personal portfolio website](https://github.com/rosiegalezia/personal-portfolio-website) (individual).
 * [An interview prep website](https://github.com/group-lab/interview-prep-app) to help practice tricky coding questions (group project).
 
 ## 🌱 I’m currently learning:
